@@ -1,1 +1,5 @@
-ECHO est� activado.
+### ¿Por qué estoy estudiando el FP superior **dual** de programación web?
+
+Érase una vez... *hace un par de años* empujé a mi pareja de aquel entonces a meterse a este mismo fp **dual**, yo ya llevaba 1 año en el grado superior **dual** de administración y finanzas y sin duda era lo mejor que podía estar haciendo y por eso le convencí de empezar este mismo ciclo. 
+Al final me acabó llamando la atención todo lo que me contaba que iba aprendiendo y ahí decidí que si volvía a estudiar sería algo relacionado con la informática. Acabé el dual de administración y finanzas y me quedé en la empresa de las prácticas y ya han pasado más de 3 años y gracias al covid estoy aquí; estoy independizada y caí en erte por parte de mi empresa, vi que era el momento de volver a los estudios (que me hacía muchísimas ganas desde hace tiempo ya) pero no podía dejar de tener ingresos cada mes ya que como he comentado anteriormente, tengo que pagar el alquiler y la comida... Así que vi el momento de volver a hacer un **dual**.
+![Logodual](./sandbox-editing-pong/images/Logodual.gif)
